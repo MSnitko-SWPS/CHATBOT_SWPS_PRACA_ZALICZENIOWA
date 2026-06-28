@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "CHATBOT SWPS",
-  description: "Asystent czatu CHATBOT SWPS",
+  title: "Ekspert Ogrodnik",
+  description: "Cześć! Jestem ekspertem ogrodnikiem. Pomogę Ci zadbać o rośliny domowe, balkonowe i ogrodowe oraz rozwiązać typowe problemy w ogrodzie.",
 };
 
 export default function RootLayout({

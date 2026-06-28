@@ -8,7 +8,7 @@ narzędzie wyszukiwania (patrz app/repository.py).
 from pathlib import Path
 
 KNOWLEDGE_DIR = Path(__file__).resolve().parent.parent / "knowledge"
-MAIN_FILE = "general.md"
+MAIN_FILE = "PlantList.md"
 
 
 def _load_main() -> str:
